@@ -1,0 +1,25 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arios10/social-network-api.git"
+  },
+  "author": "Angel Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arios10/social-network-api/issues"
+  },
+  "homepage": "https://github.com/arios10/social-network-api#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.8"
+  }
+}
